@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "metareeff",
 	"description": "I am learning how to manage packages with NPM",
+	"keywords": ["learning", "beginner", "confident", "creator", "successful"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
