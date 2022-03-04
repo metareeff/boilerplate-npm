@@ -1,6 +1,6 @@
 {	
-	"author": "metareeff",
 	"name": "fcc-learn-npm-package-json",
+	"author": "metareeff",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
